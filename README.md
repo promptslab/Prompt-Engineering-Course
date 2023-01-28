@@ -1,1 +1,1 @@
-# Prompt-Engineering-Course
+# Prompt Engineering Course
